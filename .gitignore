@@ -1,0 +1,75 @@
+
+__pycache__/
+*.pyc
+.env
+*.csv
+*.xlsx
+.ipynb_checkpoints/
+venv/
+.DS_Store
+
+
+# ===========================
+# LARGE DATA FILES
+# ===========================
+*.csv
+*.xlsx
+*.xls
+data/raw/
+data/processed/
+
+# ===========================
+# EXCEPTION — Keep small summary files
+# ===========================
+!data/processed/monthly_performance_summary.csv
+!data/processed/segment_summary.csv
+!data/processed/category_performance_summary.csv
+!data/processed/state_performance_summary.csv
+
+# ===========================
+# PYTHON
+# ===========================
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+venv/
+.env
+*.pkl
+
+# ===========================
+# SYSTEM
+# ===========================
+.DS_Store
+*.log
+
+
+# ===========================
+# LARGE FILES — Never push these
+# ===========================
+All_drived_data/df.csv
+All_drived_data/df_final.csv
+All_drived_data/churn_features.csv
+All_drived_data/churn_predictions.csv
+All_drived_data/clv_summary.csv
+
+# ===========================
+# KEEP THESE — Small summary files (safe to push)
+# ===========================
+
+# ===========================
+# PYTHON
+# ===========================
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+venv/
+.env
+*.pkl
+
+# ===========================
+# SYSTEM
+# ===========================
+.DS_Store
+*.log
