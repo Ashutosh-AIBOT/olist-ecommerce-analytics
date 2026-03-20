@@ -1,4 +1,4 @@
-# 🛒 Ecommerce Analytics — Backend
+# 🛒 Ecommerce Analytics — Full Analysis
 
 > End-to-end data analytics + ML pipeline on Olist Brazilian E-Commerce — 
 > 9 tables, 96,454 orders, churn prediction with Random Forest.
