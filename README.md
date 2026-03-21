@@ -1,6 +1,6 @@
 # 🛒 Ecommerce Analytics — Full Analysis
 
-> End-to-end data analytics + ML pipeline on Olist Brazilian E-Commerce — 
+> End-to-end data analytics + ML pipeline on Olist Brazilian E-Commerce —
 > 9 tables, 96,454 orders, churn prediction with Random Forest.
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python)
@@ -9,6 +9,12 @@
 ![Docker](https://img.shields.io/badge/Docker-Containerized-blue?style=flat-square&logo=docker)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange?style=flat-square&logo=scikitlearn)
 ![Status](https://img.shields.io/badge/Stage-v0_Complete-green?style=flat-square)
+
+---
+
+🌐 **Live Demo:** [ecommerce-analytics-frontend.vercel.app](https://ecommerce-analytics-frontend.vercel.app/)
+📦 **Dataset:** [Olist Brazilian E-Commerce — Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+👤 **Author:** [Ashutosh — GitHub](https://github.com/Ashutosh-AIBOT) · [LinkedIn](https://www.linkedin.com/in/ashutosh1975271/)
 
 ---
 
@@ -282,18 +288,38 @@ Full breakdown → [VERSION_ROADMAP.md](./VERSION_ROADMAP.md)
 | Part | GitHub |
 |---|---|
 | 📊 Backend + Data + ML (this repo) | [ecommerce-analytics](https://github.com/Ashutosh-AIBOT/ecommerce-analytics) |
-| 💻 Frontend | [ecommerce-analytics_frontend](https://github.com/Ashutosh-AIBOT/ecommerce-analytics_frontend) |
+| 💻 Frontend | [Ecommerce-analytics_frontend](https://github.com/Ashutosh-AIBOT/Ecommerce-analytics_frontend) |
+
+---
+
+## 🌐 Links
+
+| Resource | URL |
+|----------|-----|
+| 🚀 Live Demo | [ecommerce-analytics-frontend.vercel.app](https://ecommerce-analytics-frontend.vercel.app/) |
+| 📦 Dataset | [Olist Brazilian E-Commerce — Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) |
+| 💼 Portfolio | [ashutosh-portfolio-kappa.vercel.app](https://ashutosh-portfolio-kappa.vercel.app/) |
+| 🐙 GitHub | [github.com/Ashutosh-AIBOT](https://github.com/Ashutosh-AIBOT) |
+| 🔗 LinkedIn | [linkedin.com/in/ashutosh1975271](https://www.linkedin.com/in/ashutosh1975271/) |
 
 ---
 
 ## 👤 Author
 
 **Ashutosh**
-[GitHub](https://github.com/Ashutosh-AIBOT) · [LinkedIn](https://www.linkedin.com/in/ashutosh1975271/)
+B.Tech Electronics Engineering · CGPA 7.5 · Batch 2026
+[GitHub](https://github.com/Ashutosh-AIBOT) · [LinkedIn](https://www.linkedin.com/in/ashutosh1975271/) · [Portfolio](https://ashutosh-portfolio-kappa.vercel.app/)
 
 ---
 
-> *"Everyone said get experience first.  
+> *"Everyone said get experience first.
 > I said — let the project speak."*
 >
 > — Ashutosh, building this from zero.
+```
+
+---
+
+**Commit message to use:**
+```
+docs: add live demo, dataset, GitHub, LinkedIn and portfolio links to README
