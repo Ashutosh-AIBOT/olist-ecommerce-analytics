@@ -12,9 +12,9 @@
 
 ---
 
-🌐 **Live Demo:** [ecommerce-analytics-frontend.vercel.app](https://ecommerce-analytics-frontend.vercel.app/)
-📦 **Dataset:** [Olist Brazilian E-Commerce — Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
-👤 **Author:** [Ashutosh — GitHub](https://github.com/Ashutosh-AIBOT) · [LinkedIn](https://www.linkedin.com/in/ashutosh1975271/)
+🌐 **Live Demo:** [ecommerce-analytics-frontend.vercel.app](https://ecommerce-analytics-frontend.vercel.app/)                                                       
+📦 **Dataset:** [Olist Brazilian E-Commerce — Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)                                                           
+👤 **Author:** [Ashutosh — GitHub](https://github.com/Ashutosh-AIBOT) · [LinkedIn](https://www.linkedin.com/in/ashutosh1975271/)                                                          
 
 ---
 
